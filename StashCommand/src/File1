@@ -1,4 +1,8 @@
 This is file 1 in master branch.
+<<<<<<< HEAD
 Line 2 added from bhaskar branch.Changes made by me.
 line 3 added by other developer while i was working
 
+Line 2 added from bhaskar branch.
+
+Added changes by bhaskar in bhaskar branch
